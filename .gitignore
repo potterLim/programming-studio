@@ -100,4 +100,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+### Documents ###
+# Ignore document files
+*.doc
+*.docx
+*.odt
+*.rtf
+*.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/c,visualstudiocode,windows
