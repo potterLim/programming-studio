@@ -27,6 +27,9 @@ Welcome to the **ProgrammingStudio** repository for **[ECE20025] Programming Stu
 │   └── Week01
 │       ├── ...
 │       └── ...
+├── C Boot Camp
+│   ├── ...
+│   └── ...
 ├── Lab
 │   └── Week01
 │       ├── ...
@@ -39,12 +42,15 @@ Welcome to the **ProgrammingStudio** repository for **[ECE20025] Programming Stu
    - Official course assignments that follow specific guidelines and provided skeleton code.  
    - Solutions closely adhere to the assignment requirements.
 
-2. **Lab/**  
+2. **C Boot Camp**  
+   - Pre-course review folder containing solutions to C programming practice problems.
+
+3. **Lab/**  
    - Written according to my personal coding style rather than strict assignment guidelines.  
    - Although some features or logic may overlap with assignment content, the implementations here reflect my own design choices and coding practices.
 
-3. **.gitignore**  
+4. **.gitignore**  
    - Specifies files and directories excluded from version control.
 
-4. **README.md**  
+5. **README.md**  
    - Describes the repository’s purpose, structure, and main areas of study.
