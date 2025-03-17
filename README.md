@@ -30,6 +30,9 @@ Welcome to the **ProgrammingStudio** repository for **[ECE20025] Programming Stu
 ├── C Boot Camp
 │   ├── ...
 │   └── ...
+├── C Coding Test
+│   ├── ...
+│   └── ...
 ├── Lab
 │   └── Week01
 │       ├── ...
@@ -39,18 +42,21 @@ Welcome to the **ProgrammingStudio** repository for **[ECE20025] Programming Stu
 ```
 
 1. **Assignment/**  
-   - Official course assignments that follow specific guidelines and provided skeleton code.  
-   - Solutions closely adhere to the assignment requirements.
+    - Official course assignments that follow specific guidelines and provided skeleton code.  
+    - Solutions closely adhere to the assignment requirements.
 
 2. **C Boot Camp**  
-   - Pre-course review folder containing solutions to C programming practice problems.
+    - Pre-course review folder containing solutions to C programming practice problems.
 
-3. **Lab/**  
-   - Written according to my personal coding style rather than strict assignment guidelines.  
-   - Although some features or logic may overlap with assignment content, the implementations here reflect my own design choices and coding practices.
+3. **C Coding Test**
+    - Provides solutions to the C coding test problems after completing the C review section of the course.
 
-4. **.gitignore**  
-   - Specifies files and directories excluded from version control.
+4. **Lab/**  
+    - Written according to my personal coding style rather than strict assignment guidelines.  
+    - Although some features or logic may overlap with assignment content, the implementations here reflect my own design choices and coding practices.
 
-5. **README.md**  
-   - Describes the repository’s purpose, structure, and main areas of study.
+5. **.gitignore**  
+    - Specifies files and directories excluded from version control.
+
+6. **README.md**  
+    - Describes the repository’s purpose, structure, and main areas of study.
