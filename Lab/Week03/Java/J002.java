@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J002 {
     public static void main(String[] args) {
         double celsius;
         double fahrenheit;

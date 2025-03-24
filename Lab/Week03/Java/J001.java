@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J001 {
     public static void main(String[] args) {
         int height;
         int weight;

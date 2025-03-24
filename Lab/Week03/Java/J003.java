@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J003 {
     public static void main(String[] args) {
         double areaM2;
         double areaPyung;

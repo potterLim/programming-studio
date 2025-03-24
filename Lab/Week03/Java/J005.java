@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J005 {
     public static void main(String[] args) {
         int month;
         int day;
