@@ -108,4 +108,7 @@ $RECYCLE.BIN/
 *.rtf
 *.txt
 
+# Allow tracking .txt files under any data folder
+!**/Data/*.txt
+
 # End of https://www.toptal.com/developers/gitignore/api/c,visualstudiocode,windows
