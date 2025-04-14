@@ -13,7 +13,7 @@ int main()
 
     double highestGpa = 0.0;
 
-    ifstream fin("input.txt");
+    ifstream fin("Data/input.txt");
     if (!fin.is_open())
     {
         cerr << "Error: Failed to open the file." << endl;
