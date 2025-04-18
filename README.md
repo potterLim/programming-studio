@@ -39,10 +39,10 @@ The course briefly reviews the essentials of C, covering only the basics, while 
 └── README.md
 ```
 
-1. **C Boot Camp**  
+1. **C Boot Camp/**  
     - Pre-course review folder containing solutions to C programming practice problems.
 
-2. **C Coding Test**
+2. **C Coding Test/**
     - Provides solutions to the C coding test problems after completing the C review section of the course.
 
 3. **Lab/**  
