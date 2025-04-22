@@ -120,4 +120,10 @@ Lab/Week13/
 Lab/Week14/
 Lab/Week15/
 
+# Ignore script files
+*.sh
+*.ps1
+*.bat
+*.cmd
+
 # End of https://www.toptal.com/developers/gitignore/api/c,visualstudiocode,windows
