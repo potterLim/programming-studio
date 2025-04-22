@@ -5,7 +5,7 @@
 using namespace std;
 
 MyLinkedStack::MyLinkedStack()
-  : mStackTop(nullptr)
+    : mStackTop(nullptr)
 {
 }
 

@@ -3,7 +3,9 @@
 
 using namespace std;
 
-MyStack::MyStack(int size) : mMaxSize(size), mTop(-1)
+MyStack::MyStack(int size) 
+    : mMaxSize(size)
+    , mTop(-1)
 {
     mList = new int[mMaxSize];
 }

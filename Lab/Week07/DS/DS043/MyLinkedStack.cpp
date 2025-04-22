@@ -1,7 +1,7 @@
 #include "MyLinkedStack.h"
 
 MyLinkedStack::MyLinkedStack()
-  : mStackTop(nullptr)
+    : mStackTop(nullptr)
 {
 }
 

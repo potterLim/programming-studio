@@ -3,7 +3,9 @@
 
 using namespace std;
 
-CouponStack::CouponStack(int size) : mMaxSize(size), mTop(-1)
+CouponStack::CouponStack(int size) 
+    : mMaxSize(size)
+    , mTop(-1)
 {
     mList = new Coupon[mMaxSize];
 }
