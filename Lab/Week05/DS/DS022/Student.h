@@ -24,4 +24,4 @@ private:
     string getResult(int score) const;
 };
 
-#endif // STUDENT_H
+#endif /* STUDENT_H */

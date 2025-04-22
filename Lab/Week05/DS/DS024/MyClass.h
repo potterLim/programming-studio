@@ -34,4 +34,4 @@ private:
     int mGrading;
 };
 
-#endif // MYCLASS_H
+#endif /* MYCLASS_H */

@@ -23,4 +23,4 @@ private:
     double getAvg() const;
 };
 
-#endif // STUDENT_H
+#endif /* STUDENT_H */

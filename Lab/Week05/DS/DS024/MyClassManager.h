@@ -30,4 +30,4 @@ private:
     int mAppliedCount;
 };
 
-#endif // MYCLASSMANAGER_H
+#endif /* MYCLASSMANAGER_H */

@@ -22,4 +22,4 @@ private:
     string mManufacturer;
 };
 
-#endif // PRODUCT_H
+#endif /* PRODUCT_H */
