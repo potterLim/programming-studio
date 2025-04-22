@@ -111,4 +111,13 @@ $RECYCLE.BIN/
 # Allow tracking .txt files under any data folder
 !**/Data/*.txt
 
+# Ignore specific Lab weeks
+Lab/Week09/
+Lab/Week10/
+Lab/Week11/
+Lab/Week12/
+Lab/Week13/
+Lab/Week14/
+Lab/Week15/
+
 # End of https://www.toptal.com/developers/gitignore/api/c,visualstudiocode,windows
