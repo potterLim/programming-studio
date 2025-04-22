@@ -125,5 +125,6 @@ Lab/Week15/
 *.ps1
 *.bat
 *.cmd
+*.py
 
 # End of https://www.toptal.com/developers/gitignore/api/c,visualstudiocode,windows
