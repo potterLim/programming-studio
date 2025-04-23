@@ -1,8 +1,8 @@
 # [ECE20025] Programming Studio (Spring 2025) at HGU
 
-Welcome to the **ProgrammingStudio** repository for **[ECE20025] Programming Studio** at Handong Global University (HGU) in Spring 2025. 
+This is a repository for organizing coursework and lab exercises from **[ECE20025] Programming Studio** at Handong Global University (Spring 2025).
 
-The course briefly reviews the essentials of C, covering only the basics, while its primary focus is on practical lab exercises in Java and Data Structures. These labs build upon the theoretical foundations established in separate Java and Data Structures courses. Data Structures exercises are implemented using C++.
+The course begins with a brief refresher on essential C language features, then shifts focus to hands-on lab exercises in Java and Data Structures. These labs reinforce theoretical concepts from prior Java and Data Structures courses, with C++ used for implementing data structures.
 
 ## Course Focus
 
@@ -13,7 +13,7 @@ The course briefly reviews the essentials of C, covering only the basics, while 
   Emphasizes practical exercises and labs that reinforce topics from the separate Java course, providing hands-on practice with object-oriented programming and related concepts.
 
 - **Data Structures using C++**  
-  Centers on the practical implementation of fundamental data structure principles introduced in the separate Data Structures course, using C++ for hands-on experience with lists, stacks, queues, trees, and more.
+  Focuses on implementing core data structures—such as lists, stacks, queues, and trees—using C++, building on concepts from the separate Data Structures course.
 
 - **Version Control**  
   Uses Git and GitHub for source code management, collaboration, and version tracking.
@@ -25,29 +25,41 @@ The course briefly reviews the essentials of C, covering only the basics, while 
 
 ```plaintext
 .
-├── C Boot Camp
+├── C Boot Camp/
 │   ├── ...
-│   └── ...
-├── C Coding Test
+├── C Coding Test/
 │   ├── ...
-│   └── ...
-├── Lab
-│   └── Week01
+├── Lab/
+│   ├── C/
+│   │   └── ...
+│   ├── DS-CPP/
+│   │   ├── Lab01/
+│   │   ├── ...
+│   │   ├── Lab10/
+│   │   └── Coding-Test/
+│   └── Java/
+│       ├── Lab01/
 │       ├── ...
-│       └── ...
+│       └── Lab10/
 ├── .gitignore
 └── README.md
 ```
 
 1. **C Boot Camp/**  
-    - Pre-course review folder containing solutions to C programming practice problems.
-
+    - Contains solutions to C programming practice problems for pre-course review.
+  
 2. **C Coding Test/**
     - Provides solutions to the C coding test problems after completing the C review section of the course.
-
+  
 3. **Lab/**  
-    - Contains lab exercises based on the course contents.
-    - Implements concepts using personal coding style and preferred design patterns.
+   Contains hands-on lab exercises for C, Java, and Data Structures using C++.
+   - **Lab/C/**  
+     C refresher lab.
+   - **Lab/DS-CPP/**  
+     C++ implementation of Data Structures (Lab01–Lab10),  
+     including a dedicated **Coding-Test/** directory for post-lab assessments.
+   - **Lab/Java/**  
+     Java practical labs aligned with OOP concepts (Lab01–Lab10).
 
 4. **.gitignore**  
     - Specifies files and directories excluded from version control.
