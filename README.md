@@ -46,23 +46,34 @@ The course begins with a brief refresher on essential C language features, then 
 ```
 
 1. **C Boot Camp/**  
-    - Contains solutions to C programming practice problems for pre-course review.
+  
+    Contains solutions to C programming practice problems for pre-course review.
   
 2. **C Coding Test/**
-    - Provides solutions to the C coding test problems after completing the C review section of the course.
+
+    Provides solutions to the C coding test problems after completing the C review section of the course.
   
 3. **Lab/**  
+   
    Contains hands-on lab exercises for C, Java, and Data Structures using C++.
+   
    - **Lab/C/**  
+  
      C refresher lab.
+
    - **Lab/DS-CPP/**  
+  
      C++ implementation of Data Structures (Lab01–Lab10),  
      including a dedicated **Coding-Test/** directory for post-lab assessments.
+
    - **Lab/Java/**  
+  
      Java practical labs aligned with OOP concepts (Lab01–Lab10).
 
 4. **.gitignore**  
-    - Specifies files and directories excluded from version control.
+     
+     Specifies files and directories excluded from version control.
 
 5. **README.md**  
-    - Describes the repository’s purpose, structure, and main areas of study.
+   
+    Describes the repository’s purpose, structure, and main areas of study.
