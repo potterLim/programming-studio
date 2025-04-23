@@ -56,17 +56,17 @@ The course begins with a brief refresher on essential C language features, then 
 3. **Lab/**  
    
    Contains hands-on lab exercises for C, Java, and Data Structures using C++.
-   
-   - **Lab/C/**  
+
+   - **C/**  
   
      C refresher lab.
 
-   - **Lab/DS-CPP/**  
+   - **DS-CPP/**  
   
      C++ implementation of Data Structures (Lab01–Lab10),  
      including a dedicated **Coding-Test/** directory for post-lab assessments.
 
-   - **Lab/Java/**  
+   - **Java/**  
   
      Java practical labs aligned with OOP concepts (Lab01–Lab10).
 
