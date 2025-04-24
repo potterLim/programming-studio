@@ -133,4 +133,8 @@ Lab/Java/Lab10/
 *.cmd
 *.py
 
+# Ignore exam directories
+Midterm/
+Final/
+
 # End of https://www.toptal.com/developers/gitignore/api/c,visualstudiocode,windows
