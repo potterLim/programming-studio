@@ -26,54 +26,19 @@ The course begins with a brief refresher on essential C language features, then 
 ```plaintext
 .
 ├── C Boot Camp/
-│   ├── ...
 ├── C Coding Test/
-│   ├── ...
 ├── Lab/
-│   ├── C/
-│   │   └── ...
-│   ├── DS-CPP/
-│   │   ├── Lab01/
-│   │   ├── ...
-│   │   ├── Lab10/
-│   │   └── Coding-Test/
-│   └── Java/
-│       ├── Lab01/
-│       ├── ...
-│       └── Lab10/
 ├── .gitignore
 └── README.md
 ```
 
-1. **C Boot Camp/**  
-  
-    Contains solutions to C programming practice problems for pre-course review.
-  
-2. **C Coding Test/**
+## Contact
 
-    Provides solutions to the C coding test problems after completing the C review section of the course.
-  
-3. **Lab/**  
-   
-   Contains hands-on lab exercises for C, Java, and Data Structures using C++.
+If you find any errors or have suggestions for improvements, please let me know through one of the following methods:
 
-   - **C/**  
-  
-     C refresher lab.
+- **GitHub Issues:**  
+  Please report errors or suggest corrections in the Issues section of this repository.
 
-   - **DS-CPP/**  
-  
-     C++ implementation of Data Structures (Lab01–Lab10),  
-     including a dedicated **Coding-Test/** directory for post-lab assessments.
-
-   - **Java/**  
-  
-     Java practical labs aligned with OOP concepts (Lab01–Lab10).
-
-4. **.gitignore**  
-     
-     Specifies files and directories excluded from version control.
-
-5. **README.md**  
-   
-    Describes the repository’s purpose, structure, and main areas of study.
+- **Email:**  
+  For additional inquiries, you can contact me via email:  
+  potterLim0808@gmail.com
