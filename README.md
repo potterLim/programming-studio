@@ -40,5 +40,4 @@ If you find any errors or have suggestions for improvements, please let me know 
   Please report errors or suggest corrections in the Issues section of this repository.
 
 - **Email:**  
-  For additional inquiries, you can contact me via email:  
-  potterLim0808@gmail.com
+  For additional inquiries, you can contact me via email: potterLim0808@gmail.com
