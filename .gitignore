@@ -112,14 +112,12 @@ $RECYCLE.BIN/
 !**/Data/*.txt
 
 # Ignore specific DS-CPP lab weeks
-Lab/DS-CPP/Lab07/
 Lab/DS-CPP/Lab08/
 Lab/DS-CPP/Lab09/
 Lab/DS-CPP/Lab10/
 Lab/DS-CPP/Coding-Test/
 
 # Ignore specific Java lab weeks
-Lab/Java/Lab07/
 Lab/Java/Lab08/
 Lab/Java/Lab09/
 Lab/Java/Lab10/
