@@ -111,11 +111,6 @@ $RECYCLE.BIN/
 # Allow tracking .txt files under any data folder
 !**/Data/*.txt
 
-# Ignore specific DS-CPP lab weeks
-Lab/DS-CPP/Coding-Test/
-
-# Ignore specific Java lab weeks
-
 # Ignore script files
 *.sh
 *.ps1
