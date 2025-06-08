@@ -28,6 +28,7 @@ The course begins with a brief refresher on essential C language features, then 
 ├── C Boot Camp/
 ├── C Coding Test/
 ├── Lab/
+├── Mini Project/ 
 ├── .gitignore
 └── README.md
 ```
