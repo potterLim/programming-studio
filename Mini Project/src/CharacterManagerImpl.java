@@ -1,3 +1,4 @@
+import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.BufferedReader;
@@ -163,6 +164,16 @@ public class CharacterManagerImpl implements ICharacterManager {
 
     @Override
     public void saveToFile() {
+        File dataDir = new File("../Data");
+        if (!dataDir.exists()) {
+            if (dataDir.mkdirs()) {
+                System.out.println("Created Data directory.");
+            } else {
+                System.out.println("Failed to create Data directory.");
+                return;
+            }
+        }
+
         try (FileWriter writer = new FileWriter("../Data/characters.csv")) {
             for (CharacterBase c : characterList) {
                 writer.write(String.format("%s,%s,%d%n", c.getName(), c.getJob(), c.getLevel()));
