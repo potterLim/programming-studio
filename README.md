@@ -1,6 +1,6 @@
 # [ECE20025] Programming Studio (Spring 2025) at HGU
 
-This is a repository for organizing coursework and lab exercises from **[ECE20025] Programming Studio** at Handong Global University (Spring 2025).
+This is a repository for organizing coursework, lab exercises, coding tests, and assessments from **[ECE20025] Programming Studio** at Handong Global University (Spring 2025).
 
 The course begins with a brief refresher on essential C language features, then shifts focus to hands-on lab exercises in Java and Data Structures. These labs reinforce theoretical concepts from prior Java and Data Structures courses, with C++ used for implementing data structures.
 
@@ -27,8 +27,17 @@ The course begins with a brief refresher on essential C language features, then 
 .
 ├── C Boot Camp/
 ├── C Coding Test/
+├── Final/
+│   ├── Coding-Test/
+│   └── Quiz/
 ├── Lab/
-├── Mini Project/ 
+│   ├── C/
+│   ├── DS-CPP/
+│   └── Java/
+├── Midterm/
+│   ├── Coding-Test/
+│   └── Quiz/
+├── Mini Project/
 ├── .gitignore
 └── README.md
 ```
