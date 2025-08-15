@@ -1,6 +1,7 @@
 # RPG Hero Manager
 
-A console-based Java application for creating, managing, and saving RPG characters. The program supports CRUD operations, class-based stat growth, and file persistence using CSV.
+A console-based Java application for creating, managing, and saving RPG characters.  
+The program supports CRUD operations, class-based stat growth, and file persistence using CSV.
 
 ## Directory Structure
 
